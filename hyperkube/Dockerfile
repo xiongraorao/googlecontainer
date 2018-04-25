@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/hyperkube:v1.8.12
+FROM gcr.io/google_containers/hyperkube:v1.0.1
 MAINTAINER xiongraorao@gmail.com
